@@ -1,0 +1,12 @@
+.socialmedia{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.socialicon{
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    line-height: 0;
+}

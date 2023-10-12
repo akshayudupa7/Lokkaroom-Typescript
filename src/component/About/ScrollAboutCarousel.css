@@ -1,0 +1,19 @@
+.searchBox{
+    font-weight: 700;
+    font-size: 18px;
+}
+::placeholder{
+    color:black !important;
+}
+
+::-webkit-scrollbar{
+    width: 12px; 
+    height: 10px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color:rgb(203, 198, 198); 
+    border-radius: 40px;
+    width: 12px;
+ 
+  }

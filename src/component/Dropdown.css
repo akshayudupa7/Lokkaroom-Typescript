@@ -1,0 +1,9 @@
+.nav-link{
+    color:"#fff";
+    font-size:15px;
+    text-transform: none;
+    
+}
+.nav-link:hover{
+    color:#ff9928;
+}
