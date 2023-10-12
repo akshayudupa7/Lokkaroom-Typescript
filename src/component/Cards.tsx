@@ -1,7 +1,7 @@
 import React from "react";
 import Typography from "@mui/material/Typography";
 import { Grid, Box } from "@mui/material";
-import "./Card.css";
+import "./Cards.css";
 import Link from "next/link";
 import Image from "next/image";
 
