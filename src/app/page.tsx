@@ -23,8 +23,8 @@ export default function Home() {
         justifyContent: 'space',
       }}
     >
-      {CardData.map((val, index:Number) => (
-        <Cards key={index} val={val} /> // Assuming 'val' is a prop for 'Cards' component
+      {CardData.map((val) => (
+        <Cards key={val.id} val={val} /> // Assuming 'val' is a prop for 'Cards' component
       ))}
     </Grid>
   
